@@ -1,5 +1,5 @@
-# conversor de medidas
-para poder ejecutar el proyecto, despues de clonarlo, debes hacer las siguientes instrucciones:
-'''
-pip install -r requirements.txt
-'''
+# Medidas convertidor
+Para poder ejecutar el proyecto, después de clonarlo, debe hacer las siguientes instrucciones:
+```
+PIP install -r requisitos.txt
+```
